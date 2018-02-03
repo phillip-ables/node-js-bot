@@ -1,0 +1,19 @@
+{
+  "name": "js-bot",
+  "version": "1.0.0",
+  "description": "simple node js bot",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/phillip-ables/node-js-bot.git"
+  },
+  "author": "phillip",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/phillip-ables/node-js-bot/issues"
+  },
+  "homepage": "https://github.com/phillip-ables/node-js-bot#readme"
+}
